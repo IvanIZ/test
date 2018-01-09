@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Armor
+comment1.params=name
+comment1.target=Armor(java.lang.String)
+comment2.params=newArmor
+comment2.target=void\ changeArmor(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getArmor()
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+numComments=6

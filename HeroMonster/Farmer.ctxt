@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Farmer
+comment1.params=
+comment1.target=Farmer()
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=void\ meet()
+comment5.params=
+comment5.target=boolean\ a()
+numComments=6
